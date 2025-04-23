@@ -58,6 +58,11 @@ yolo detect train model=yolov8n-obb.pt data=dataset-v1.yaml epochs=50 imgsz=640 
 ```
 yolo task=obb mode=train model=runs/obb/train9/weights/last.pt data=dataset-v1.yaml epochs=100 imgsz=640 device=0
 ```
+## Метрики и результаты обучения 
+
+Расположены по путям внутрим ветки main:
+runs/obb/train9/
+runs/obb/train10/
 
 # Запуск готового интерфейса для просмотра работы модели в режиме реального времени
 
