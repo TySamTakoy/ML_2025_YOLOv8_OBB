@@ -1,0 +1,15 @@
+path: E:\python\PythonProject\.venv\yolo_study
+
+train: images
+val: images
+
+names:
+  0: ELECTRONICS
+  1: EXPLOSIVE
+  2: HAZARDOUS_LIQUID
+  3: INSTRUMENT
+  4: METAL
+  5: SHARP_OBJECT
+  6: WEAPON
+  7: WIRE
+  8: MEDICINE
