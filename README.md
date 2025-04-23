@@ -61,8 +61,10 @@ yolo task=obb mode=train model=runs/obb/train9/weights/last.pt data=dataset-v1.y
 ## Метрики и результаты обучения 
 
 Расположены по путям внутрим ветки main:
+```
 runs/obb/train9/
 runs/obb/train10/
+```
 
 # Запуск готового интерфейса для просмотра работы модели в режиме реального времени
 
