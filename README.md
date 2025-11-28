@@ -53,7 +53,7 @@ yolo detect train model=yolov8n-obb.pt data=dataset-v1.yaml epochs=50 imgsz=640 
 
 Рабочий файл ```yolo_prelabel_obb.py```
 
-<img width="624" height="284" alt="exmpl1" src="https://github.com/user-attachments/assets/82c6676f-a999-4ca1-8943-671bd2d769d5" />
+<img width="624" height="302" alt="cvat" src="https://github.com/user-attachments/assets/51f084f4-c2d0-4b66-aa8f-0edfe3f0b276" />
 
 ## Обучение модели на 15000 размеченных изображениях
 
